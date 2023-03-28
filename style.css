@@ -1,0 +1,14 @@
+.kitten.card {
+  border: 1px solid lightgray;
+  padding: 16px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+#kitten-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
